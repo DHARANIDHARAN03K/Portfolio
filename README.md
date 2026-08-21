@@ -48,6 +48,8 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+```
+
 !DOCTYPE html>
 <html lang="en">
 <head>
@@ -102,6 +104,10 @@ Upload to GitHub Pages for free hosting.
             </div>
 
 
+```
+
+```
+
 
 
 * { margin: 0; padding: 0; box-sizing: border-box; } 
@@ -135,7 +141,7 @@ nav a:hover { color: #8B5CF6; }
 @media(max-width:768px) { nav { flex-direction: column; gap: 15px; } .hero-content h1 { font-size: 2.4rem; } .profile-pic { width: 140px; height: 140px; } }
 
 
-
+```
 
 ## OUTPUT
 <img width="1517" height="746" alt="image" src="https://github.com/user-attachments/assets/e998dad0-f579-4d1a-9541-0e7fdc238d96" />
